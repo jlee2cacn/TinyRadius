@@ -1,8 +1,8 @@
 [![Build Status](https://travis-ci.org/ctran/TinyRadius.svg?branch=master)](https://travis-ci.org/ctran/TinyRadius)
  
-TinyRadius README
+An small but full featured radius
 
-TinyRadius is a simple, small and fast Java Radius library capable of
+This is a simple, small and fast Java Radius library capable of
 sending and receiving Radius packets of all types. It is released
 under the terms of the LGPL.
 
@@ -14,6 +14,6 @@ usage.
 Please do not hesitate to contact me if you have got questions or
 suggestions.
 
-Matthias Wuttke
-post@matthias-wuttke.de
-http://tinyradius.sourceforge.net/
+James Lee
+jlee2cacn@outlook.com
+
